@@ -1,0 +1,10 @@
+com\saurabh\springboot\RegistrationLoginThymeleafSpringBootApplication.class
+com\saurabh\springboot\config\SecurityConfiguration.class
+com\saurabh\springboot\repository\UserRepository.class
+com\saurabh\springboot\service\UserService.class
+com\saurabh\springboot\web\UserRegistrationController.class
+com\saurabh\springboot\web\MainController.class
+com\saurabh\springboot\model\Role.class
+com\saurabh\springboot\service\UserServiceImpl.class
+com\saurabh\springboot\model\User.class
+com\saurabh\springboot\web\dto\UserRegistrationDto.class

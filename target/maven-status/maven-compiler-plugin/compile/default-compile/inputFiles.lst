@@ -1,0 +1,10 @@
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\web\MainController.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\service\UserServiceImpl.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\web\UserRegistrationController.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\config\SecurityConfiguration.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\RegistrationLoginThymeleafSpringBootApplication.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\model\User.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\repository\UserRepository.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\model\Role.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\service\UserService.java
+C:\Users\HP\eclipse-workspace\registration-login-thymeleaf-spring-boot\src\main\java\com\saurabh\springboot\web\dto\UserRegistrationDto.java
